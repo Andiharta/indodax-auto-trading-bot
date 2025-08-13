@@ -1,0 +1,14 @@
+# FILE: Dockerfile
+
+FROM python:3.10-slim
+
+WORKDIR /app
+
+# Copy all files
+COPY . .
+
+# Install dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Default command (paper mode)
+CMD ["python", "bot_main.py", "--mode", "paper"]
