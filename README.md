@@ -77,7 +77,3 @@ python bot_main.py --mode live
 ⚠️ Disclaimer
 
 Trading cryptocurrency memiliki risiko tinggi. Gunakan bot ini dengan tanggung jawab Anda sendiri. Lakukan uji coba di paper mode terlebih dahulu sebelum live trading.
-
----
-
-Kalau README sudah kamu buat, berikutnya aku akan kasih **`requirements.txt`** supaya environment kamu bisa terinstall dengan benar.
