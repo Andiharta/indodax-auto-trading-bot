@@ -63,23 +63,6 @@ python bot_main.py --mode live
 
 Pastikan Python dan pip sudah terinstall di Termux.
 
-## Struktur Folder
-
-```
-indodax-auto-trading-bot/
-├── README.md
-├── requirements.txt
-├── .env.example
-├── bot_main.py
-├── modules/
-│   ├── __init__.py
-│   ├── api_wrapper.py
-│   ├── scorer.py
-│   ├── storage.py
-│   └── utils.py
-└── Dockerfile
-```
-
 ## Kontribusi
 
 Pull Request dan masukan dipersilakan!
